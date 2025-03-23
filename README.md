@@ -26,7 +26,7 @@ AdVibe extracts content from web pages, analyzes it using Google's Gemini AI, an
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/advibe.git
+git clone https://github.com/DPRASAD-dp/AdVibe-Context-Based-Ad-Recommendation-System.git
 cd AdVibe: Context-Based Ad Recommendation System
 ```
 
